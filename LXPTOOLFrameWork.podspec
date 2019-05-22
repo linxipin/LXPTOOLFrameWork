@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "LXPTOOLFrameWork"
-  spec.version      = "0.0.1"
+  spec.version      = "1.0.0"
   spec.summary      = "A short description of LXPTOOLFrameWork."
 
   # This description is used to generate tags and improve search results.
@@ -25,6 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
+			this is my first framework, now I am learning to upload it to cocoapod
                    DESC
 
   spec.homepage     = "https://github.com/linxipin/LXPTOOLFrameWork"
