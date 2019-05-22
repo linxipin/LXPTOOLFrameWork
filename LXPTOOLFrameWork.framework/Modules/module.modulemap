@@ -1,0 +1,6 @@
+framework module LXPTOOLFrameWork {
+  umbrella header "LXPTOOLFrameWork.h"
+
+  export *
+  module * { export * }
+}
