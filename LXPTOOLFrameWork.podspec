@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "LXPTOOLFrameWork"
   spec.version      = "1.0.0"
-  spec.summary      = "A short description of LXPTOOLFrameWork."
+  spec.summary      = "my test to upload framework to CocoaPods.my test to upload framework to CocoaPods."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
