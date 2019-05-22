@@ -91,8 +91,8 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "LXPTOOLFrameWork", "*.{h,m}"
-  spec.exclude_files = "LXPTOOLFrameWork/Exclude"
+  # spec.source_files  = "LXPTOOLFrameWork", "*.{h,m}"
+  # spec.exclude_files = "LXPTOOLFrameWork/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
 
