@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "LXPTOOLFrameWork"
-  spec.version      = "1.0.3"
+  spec.version      = "1.0.1"
   spec.summary      = "my test to upload framework to CocoaPods.my test to upload framework to CocoaPods."
 
   # This description is used to generate tags and improve search results.
@@ -91,7 +91,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "LXPTOOLFrameWork/**/*.{h,m}"
+  spec.source_files  = "LXPTOOLFrameWork", "*.{h,m}"
   spec.exclude_files = "LXPTOOLFrameWork/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
